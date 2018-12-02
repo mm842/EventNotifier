@@ -5,7 +5,7 @@ This simple program allows to set up different events and get notified at a spec
 
 - the instance of the program has to run the whole time and events are immediately forgotten after the program is closed. 
 - the event to be notified has to be at the same day
-and
+- all text fields and buttons are in German
 - I do not guarantee at all any functionality of the program and are not responsible for any missed event:)
 
 
